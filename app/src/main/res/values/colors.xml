@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">@color/lite_blue</color>
+    <color name="lite_orange">#E6A882</color>
+    <color name="lite_purple">#9771B2</color>
+    <color name="lite_200">#9E7979</color>
+    <color name="lite_blue">#8598A5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#707888</color>
+    <color name="icons">#2C6E59</color>
+</resources>

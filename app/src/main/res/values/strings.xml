@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dragons Posts</string>
+    <string name="preference_file_key">com.example.dragonsposts.PREFERENCE_FILE_KEY</string>
+
+</resources>
